@@ -1,0 +1,7 @@
+page-weeks {
+  .checkbox.checkbox-disabled,
+  .item.item-checkbox-disabled ion-label {
+    opacity: 1;
+    pointer-events: none;
+  }
+}
